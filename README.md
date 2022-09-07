@@ -15,4 +15,4 @@ FLEX PROPERTY
  NEED 6 HOURS TO DO THIS PROJECT
 
 ## 🔗 Links
-[PROJECT7 ](https://project7a.netlify.app/)
+[PROJECT7 ](https://project10ab.netlify.app/)
